@@ -812,6 +812,14 @@ h3.m_3 {
   border: 1px solid #D8DADC;
   padding: 1em;
 }
+.blog-content-right h3 {
+  background: #B5B0DF;
+  color: #fff;
+  padding: 0.5em 1em;
+  margin: 1.5em 0 0;
+  font-size: 1.3em;
+  font-family: 'Libre Baskerville', serif;
+}
 .blog-artical-info-head h2 a{
 	color: #26313b;
 	font-size: 0.8125em;
